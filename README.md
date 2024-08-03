@@ -1,6 +1,11 @@
 # cpp-training
-cpp-training
+# C++ Training Repository
 
+Este repositório é destinado ao treinamento e aprimoramento de habilidades em C++. Contém uma série de exercícios que cobrem desde conceitos básicos até tópicos avançados.
+
+## Estrutura
+
+```plaintext
 cpp-training/
 ├── README.md
 ├── basics/
