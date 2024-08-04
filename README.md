@@ -12,6 +12,7 @@ cpp-training/
 │   ├── hello_world.cpp
 │   ├── variables.cpp
 │   ├── control_structures.cpp
+|   ├── controller.cpp
 │   ├── functions.cpp
 ├── intermediate/
 │   ├── classes_objects.cpp
